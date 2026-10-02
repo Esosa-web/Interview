@@ -18,4 +18,4 @@ The customer service team has given you these constraints:
 
 You're expected to use the httpx documentation at https://www.python-httpx.org as you go.
 
-You don't need a real customer service running; we're interested in the code and your reasoning.
+The customer service URL is a placeholder and isn't reachable from this environment, so calling your endpoint will fail to connect. That's expected. We're interested in how you write the call and handle the constraints, not in getting a live response.
