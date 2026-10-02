@@ -5,6 +5,8 @@ Everything is already installed. Two commands:
     uvicorn main:app --reload   # run the app, then open /docs on port 8000
     pytest                      # run the tests
 
+There are no tests yet, so `pytest` will report "no tests collected" until you add some. You're welcome to.
+
 The session is two short questions on one small FastAPI app, about 50 minutes in total.
 
 ## Ground rules
