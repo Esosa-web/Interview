@@ -7,7 +7,7 @@ Everything is already installed. Two commands:
 
 There are no tests yet, so `pytest` will report "no tests collected" until you add some. You're welcome to.
 
-The session is two short questions on one small FastAPI app, about 50 minutes in total.
+The session is a few short coding questions on one small FastAPI app, then a system design discussion, about 50 minutes in total.
 
 ## Ground rules
 
@@ -17,4 +17,4 @@ The session is two short questions on one small FastAPI app, about 50 minutes in
 
 ## Questions
 
-There are two questions, in `QUESTION_1.md` and `QUESTION_2.md`. Your interviewer will tell you when to open each one.
+There are four questions, in `QUESTION_1.md` to `QUESTION_4.md`. Your interviewer will tell you when to open each one.
